@@ -1,2 +1,3 @@
 # TEConsultas
- Prototipo de aplicacion web dirigida a la Telemedicina, desarrollada con Javascript, NodeJS, express, Axios, HTML5, CSS3
+ Aplicacion para hacer videolladas con servicio de Agora
+ Se debe cambiar el token de agora
